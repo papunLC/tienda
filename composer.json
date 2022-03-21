@@ -1,0 +1,19 @@
+{
+    "name": "manuellcoronado/tienda",
+    "description": "sistema para una tienda",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]   
+    },
+    "authors": [
+        {
+            "name": "Manuel Lara",
+            "email": "sin@correo.com"
+        }
+    ],
+    "require": {}
+}
